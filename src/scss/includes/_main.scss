@@ -104,3 +104,9 @@ a:not([class^="button-"]):not(.no-line) {
 		font-size: $i * 1em !important;
 	}
 }
+
+.elipsis {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis; 
+}
