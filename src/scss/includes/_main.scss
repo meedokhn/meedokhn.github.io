@@ -1,0 +1,35 @@
+html {
+	background-color: #333;
+}
+
+body {
+	font-family: $font-family;
+	font-size: $font-size;
+}
+
+[class^="icon-"] {
+	&.icon-x2 {
+		font-size: 2em;
+	}
+	&.icon-x3 {
+		font-size: 3em;
+	}
+	&.icon-x4 {
+		font-size: 4em;
+	}
+	&.icon-x5 {
+		font-size: 5em;
+	}
+	&.icon-x6 {
+		font-size: 6em;
+	}
+	&.icon-x7 {
+		font-size: 7em;
+	}
+	&.icon-x8 {
+		font-size: 8em;
+	}
+	&.icon-x9 {
+		font-size: 9em;
+	}
+}

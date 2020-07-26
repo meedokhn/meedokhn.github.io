@@ -1,0 +1,28 @@
+{
+    "name": "meedok-template",
+    "version": "1.0.0",
+    "description": "",
+    "main": "watch.js",
+    "scripts": {
+        "watch": "grunt"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "grunt": "~0.4.5",
+        "grunt-browser-sync": "^2.2.0",
+        "grunt-contrib-jshint": "~0.10.0",
+        "grunt-contrib-nodeunit": "~0.4.1",
+        "grunt-contrib-sass": "^1.0.0",
+        "grunt-contrib-uglify": "^0.5.1",
+        "grunt-contrib-watch": "^1.1.0"
+    },
+    "dependencies": {
+        "bootstrap": "^4.5.0",
+        "bootstrap-icons": "^1.0.0-alpha5",
+        "grunt-sass": "^3.1.0",
+        "grunt-shell": "^3.0.1",
+        "icon-font-generator": "^2.1.10",
+        "node-sass": "^4.13.1"
+    }
+}
