@@ -1,0 +1,237 @@
+@font-face {
+    font-family: "icons";
+    src: url("../fonts/icons.woff2?99a69d1df398741118759d06b315539a") format("woff2"),
+url("../fonts/icons.woff?99a69d1df398741118759d06b315539a") format("woff"),
+url("../fonts/icons.ttf?99a69d1df398741118759d06b315539a") format("truetype");
+}
+
+i[class^="icon-"]:before, i[class*=" icon-"]:before {
+    font-family: icons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-add:before {
+    content: "\f101";
+}
+.icon-angeologia:before {
+    content: "\f102";
+}
+.icon-aseguradora:before {
+    content: "\f103";
+}
+.icon-atlas:before {
+    content: "\f104";
+}
+.icon-buscador:before {
+    content: "\f105";
+}
+.icon-calendario:before {
+    content: "\f106";
+}
+.icon-cardiologia:before {
+    content: "\f107";
+}
+.icon-cerrar:before {
+    content: "\f108";
+}
+.icon-cirugia-plastica:before {
+    content: "\f109";
+}
+.icon-configuracion:before {
+    content: "\f10a";
+}
+.icon-consulta-2:before {
+    content: "\f10b";
+}
+.icon-consultas:before {
+    content: "\f10c";
+}
+.icon-covid:before {
+    content: "\f10d";
+}
+.icon-dependientes:before {
+    content: "\f10e";
+}
+.icon-derecha:before {
+    content: "\f10f";
+}
+.icon-dermatologia:before {
+    content: "\f110";
+}
+.icon-diabetologia:before {
+    content: "\f111";
+}
+.icon-doctor:before {
+    content: "\f112";
+}
+.icon-doctora:before {
+    content: "\f113";
+}
+.icon-educacion:before {
+    content: "\f114";
+}
+.icon-eliminar:before {
+    content: "\f115";
+}
+.icon-enviar:before {
+    content: "\f116";
+}
+.icon-especialidades:before {
+    content: "\f117";
+}
+.icon-fb-logo:before {
+    content: "\f118";
+}
+.icon-gastrointerologia:before {
+    content: "\f119";
+}
+.icon-geratra:before {
+    content: "\f11a";
+}
+.icon-ginecologia:before {
+    content: "\f11b";
+}
+.icon-google-logo:before {
+    content: "\f11c";
+}
+.icon-hand:before {
+    content: "\f11d";
+}
+.icon-historial-2:before {
+    content: "\f11e";
+}
+.icon-historial:before {
+    content: "\f11f";
+}
+.icon-horarios:before {
+    content: "\f120";
+}
+.icon-inicio:before {
+    content: "\f121";
+}
+.icon-insta-logo:before {
+    content: "\f122";
+}
+.icon-izquierda:before {
+    content: "\f123";
+}
+.icon-laboratorio:before {
+    content: "\f124";
+}
+.icon-logo-color-doctor:before {
+    content: "\f125";
+}
+.icon-logo-color-pacientes:before {
+    content: "\f126";
+}
+.icon-logo-transparencia-doctor:before {
+    content: "\f127";
+}
+.icon-logo-transparencia-pacientes:before {
+    content: "\f128";
+}
+.icon-logo:before {
+    content: "\f129";
+}
+.icon-m-logo:before {
+    content: "\f12a";
+}
+.icon-medicamentos:before {
+    content: "\f12b";
+}
+.icon-medicina-interna:before {
+    content: "\f12c";
+}
+.icon-medico:before {
+    content: "\f12d";
+}
+.icon-mundo:before {
+    content: "\f12e";
+}
+.icon-neurologia:before {
+    content: "\f12f";
+}
+.icon-notas-medicas:before {
+    content: "\f130";
+}
+.icon-notificaciones:before {
+    content: "\f131";
+}
+.icon-nutricion:before {
+    content: "\f132";
+}
+.icon-odontologia:before {
+    content: "\f133";
+}
+.icon-oftalmologia:before {
+    content: "\f134";
+}
+.icon-oncologia:before {
+    content: "\f135";
+}
+.icon-ortopedia:before {
+    content: "\f136";
+}
+.icon-otorrinolaringologia:before {
+    content: "\f137";
+}
+.icon-paciente-femenino:before {
+    content: "\f138";
+}
+.icon-paciente-masculino:before {
+    content: "\f139";
+}
+.icon-pago:before {
+    content: "\f13a";
+}
+.icon-password:before {
+    content: "\f13b";
+}
+.icon-pediatria:before {
+    content: "\f13c";
+}
+.icon-perfil:before {
+    content: "\f13d";
+}
+.icon-phone-card:before {
+    content: "\f13e";
+}
+.icon-phone-logo:before {
+    content: "\f13f";
+}
+.icon-play:before {
+    content: "\f140";
+}
+.icon-powered:before {
+    content: "\f141";
+}
+.icon-proctologia:before {
+    content: "\f142";
+}
+.icon-psicologia:before {
+    content: "\f143";
+}
+.icon-psiquiatria:before {
+    content: "\f144";
+}
+.icon-telefono:before {
+    content: "\f145";
+}
+.icon-transacciones:before {
+    content: "\f146";
+}
+.icon-ubicacion:before {
+    content: "\f147";
+}
+.icon-upload:before {
+    content: "\f148";
+}
+.icon-urologia:before {
+    content: "\f149";
+}

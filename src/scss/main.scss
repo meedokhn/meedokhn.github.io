@@ -1,4 +1,12 @@
+$grid-gutter-width: 1.4rem;
+$input-height: 2.4rem;
+
 @import '../../node_modules/bootstrap/scss/bootstrap';
 
 @import './includes/variables';
+@import './includes/navbar';
+@import './includes/components';
+@import './includes/footer';
+@import './includes/form';
+
 @import './includes/main';

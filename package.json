@@ -4,12 +4,14 @@
     "description": "",
     "main": "watch.js",
     "scripts": {
-        "watch": "grunt"
+        "watch": "grunt",
+        "icons": "node_modules/icon-font-generator/bin/icon-font-generator ./src/icons/*.svg -o ./public/assets/fonts --csspath ./public/assets/css/icons.css --height 1200 --types 'ttf, woff2, woff' --htmlpath ./public/icons.html"
     },
     "author": "",
     "license": "ISC",
     "devDependencies": {
         "grunt": "~0.4.5",
+        "grunt-bake": "^1.9.0",
         "grunt-browser-sync": "^2.2.0",
         "grunt-contrib-jshint": "~0.10.0",
         "grunt-contrib-nodeunit": "~0.4.1",

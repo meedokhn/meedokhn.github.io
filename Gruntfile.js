@@ -3,7 +3,7 @@ module.exports = function (grunt) {
 		watch: {
 			css: {
 				files: ['src/scss/**/*.scss'],
-				tasks: ['sass']
+				tasks: ['sass:dev']
 			},
 			svg: {
 				files: ['src/icons/*.svg'],
@@ -11,11 +11,15 @@ module.exports = function (grunt) {
 			},
 			js: {
 				files: ['src/js/**/*.js'],
-				tasks: ['uglify']
+				tasks: ['uglify:dev']
+			},
+			html: {
+				files: ['src/**/*.html'],
+				tasks: ['bake:dev']
 			}
 		},
 		shell: {
-			command: ["node_modules/icon-font-generator/bin/icon-font-generator ./src/icons/*.svg -o ./public/assets/fonts --csspath ./public/assets/css/icons.css --height 1200 --types 'ttf, woff2, woff'"].join('&&')
+			command: ["node_modules/icon-font-generator/bin/icon-font-generator ./src/icons/*.svg -o ./public/assets/fonts --csspath ./public/assets/css/icons.css --height 1200 --types 'ttf, woff2, woff'  --htmlpath ./public/icons.html"].join('&&')
 		},
 		sass: {
 			dev: {
@@ -30,22 +34,36 @@ module.exports = function (grunt) {
 			}
 		}, 
 		uglify: {
-			options: {
-				mangle: false
-			},
-			main: {
-				files: {
-					'public/js/main.min.js': ['src/js/main.js']
+			dev: {
+				options: {
+					mangle: false
+				},
+				main: {
+					files: {
+						'public/js/main.min.js': ['src/js/main.js']
+					}
 				}
 			}
+		},
+		bake: {
+			dev: {
+				options: {
+					
+				},
+	 
+				files: {
+					"public/index.html": "src/pages/index.html",
+					"public/dash.html": "src/pages/dash.html",
+				}
+			},
 		},
 		browserSync: {
 			dev: {
 				bsFiles: {
 					src: [
-						'src/css/*.css',
-						'src/*.js',
-						'**/*.html'
+						'public/assets/css/*.css',
+						'public/assets/*.js',
+						'public/*.html'
 					]
 				},
 				options: {
@@ -61,6 +79,7 @@ module.exports = function (grunt) {
 	grunt.loadNpmTasks('grunt-contrib-watch');
 	grunt.loadNpmTasks('grunt-browser-sync');
 	grunt.loadNpmTasks('grunt-contrib-uglify');
+	grunt.loadNpmTasks('grunt-bake');
 
 	// define default task
 	grunt.registerTask('default', ['browserSync', 'watch']);
