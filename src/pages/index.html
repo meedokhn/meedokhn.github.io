@@ -13,9 +13,32 @@
 			<!--(bake includes/navbar.html)-->
 
 			<div class="content">
-				<header style="background-image: url(assets/images/avatar.jpg)">
-					<div class="container">
+				<header style="background-image: url(assets/images/header.jpg); display: flex" class="text-center">
+					<div class="overlight">
+						<div class="container">
+							<h2 class="color-white">Regular</h2>
+						</div>
+					</div>
 
+					<div class="overlight accent">
+						<div class="container">
+							<h2 class="color-white">Accent</h2>
+						</div>
+					</div>
+					<div class="overlight primary">
+						<div class="container">
+							<h2 class="color-white">Primary</h1>
+						</div>
+					</div>
+					<div class="overlight light">
+						<div class="container">
+							<h2>Light</h2>
+						</div>
+					</div>
+					<div class="overlight dark">
+						<div class="container">
+							<h2 class="color-white">Dark</h1>
+						</div>
 					</div>
 				</header>
 
@@ -66,6 +89,16 @@
 		</main>
 
 		<!--(bake includes/sync-dev.html)-->
+
+		<script>
+			document.querySelector('.navbar .logo').onclick = function() {
+				document.querySelector('body').classList.add('sidebar-open');
+			}
+
+			document.querySelector('.sidebar-mask').onclick = function() {
+				document.querySelector('body').classList.remove('sidebar-open');
+			}
+		</script>
 
 	</div>
 </body>

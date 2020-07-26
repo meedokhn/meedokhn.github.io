@@ -19,7 +19,6 @@
 		text-align: center;
 		
 		li {
-			// background-color: red;
 			padding: 1.5em 0;
 			opacity: 0.6;
 			transition: 0.4s;
@@ -72,9 +71,18 @@
 					color: #FFF;
 					font-weight: 700;
 				}
+
+				&::after {
+					background-color: $accent-color;
+				}
 			}
 		}
 	}
+}
+
+.sidebar-mask {
+	display: none;
+	transition: background-color 0.3s;
 }
 
 main {
@@ -96,6 +104,10 @@ main {
 		border-bottom: 1px solid rgba($border-color, 0.75);
 		box-shadow: 0px 0px 2rem rgba(0,0,0, 0.1);
 
+		.logo i {
+			display: none;
+		}
+
 		.nav-elements {
 			flex: 1;
 			display: flex;
@@ -103,7 +115,7 @@ main {
 			justify-content: center;
 			
 			.search{
-				background-color: #ECECEC;
+				background-color: $default-color;
 				height: 2.4rem;
 				width: 100%;
 				max-width: 320px;
