@@ -110,3 +110,8 @@ a:not([class^="button-"]):not(.no-line) {
 	overflow: hidden;
 	text-overflow: ellipsis; 
 }
+
+.img-responsive{
+	max-width: 100%;
+  	height: auto;
+}
