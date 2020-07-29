@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" d="M0,0H26V33H0Z" transform="translate(0.931)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-subir">
+      <rect width="45" height="45"/>
+    </clipPath>
+  </defs>
+  <g id="subir" clip-path="url(#clip-subir)">
+    <g id="Group_3" data-name="Group 3" transform="translate(9.069 6)">
+      <path id="Clip_2-2" data-name="Clip 2" d="M0,0H26V33H0Z" transform="translate(0.931)" fill="none"/>
+      <g id="Group_3-2" data-name="Group 3" clip-path="url(#clip-path)">
+        <path id="Fill_1" data-name="Fill 1" d="M21.357,33H16.713a1.828,1.828,0,0,1-1.306-.541,1.782,1.782,0,0,1-.524-1.274V31.13a1.823,1.823,0,0,1,1.831-1.8h4.643a.924.924,0,0,0,.929-.917V11H16.714a1.847,1.847,0,0,1-1.857-1.833v-5.5H4.643a.924.924,0,0,0-.929.917v8.249a1.847,1.847,0,0,1-1.857,1.833A1.848,1.848,0,0,1,0,12.833V4.584A4.619,4.619,0,0,1,4.643,0h12.39A3.765,3.765,0,0,1,19.66,1.075l5.252,5.184A3.668,3.668,0,0,1,26,8.852V28.417A4.619,4.619,0,0,1,21.357,33ZM5.571,33a1.847,1.847,0,0,1-1.857-1.833V27.5H1.36a1.332,1.332,0,0,1-1.179-.816,1.561,1.561,0,0,1,.1-1.636L4.495,18.81a1.237,1.237,0,0,1,1-.476,1.481,1.481,0,0,1,1.157.568L10.862,25a1.62,1.62,0,0,1,.093,1.673,1.33,1.33,0,0,1-1.17.823H7.429v3.667A1.848,1.848,0,0,1,5.571,33Z" transform="translate(0.931)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

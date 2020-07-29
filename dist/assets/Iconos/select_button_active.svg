@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <clipPath id="clip-select_button_active">
+      <rect width="26" height="26"/>
+    </clipPath>
+  </defs>
+  <g id="select_button_active" clip-path="url(#clip-select_button_active)">
+    <g id="Rectangle" transform="translate(1 1)" fill="none" stroke="#4d00ef" stroke-miterlimit="10" stroke-width="3">
+      <rect width="24" height="24" rx="8" stroke="none"/>
+      <rect x="1.5" y="1.5" width="21" height="21" rx="6.5" fill="none"/>
+    </g>
+    <path id="Trazado_1" data-name="Trazado 1" d="M-925.995,572.119l4.551,4.551,8.433-8.433" transform="translate(933 -559)" fill="none" stroke="#f500ae" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+</svg>

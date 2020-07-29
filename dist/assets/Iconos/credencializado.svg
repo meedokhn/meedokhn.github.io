@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="32" viewBox="0 0 28 32">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" d="M11.573.318,1.269,6.246A2.547,2.547,0,0,0,0,8.413H0V20.268a2.48,2.48,0,0,0,1.269,2.167h0l10.3,5.928a2.477,2.477,0,0,0,1.234.334h.036a2.478,2.478,0,0,0,1.234-.334h0l10.337-5.928a2.48,2.48,0,0,0,1.268-2.167h0V8.413a2.482,2.482,0,0,0-1.268-2.167h0L14.11.318A2.5,2.5,0,0,0,12.841,0h0a2.584,2.584,0,0,0-1.268.318" transform="translate(0.177 0.303)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4d00e3"/>
+      <stop offset="1" stop-color="#4d00e3"/>
+    </linearGradient>
+    <clipPath id="clip-credencializado">
+      <rect width="28" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="credencializado" clip-path="url(#clip-credencializado)">
+    <g id="Grupo_2" data-name="Grupo 2" transform="translate(2617 1035)">
+      <g id="Group_3" data-name="Group 3" transform="translate(-2616.177 -1033.303)">
+        <path id="Clip_2-2" data-name="Clip 2" d="M11.573.318,1.269,6.246A2.547,2.547,0,0,0,0,8.413H0V20.268a2.48,2.48,0,0,0,1.269,2.167h0l10.3,5.928a2.477,2.477,0,0,0,1.234.334h.036a2.478,2.478,0,0,0,1.234-.334h0l10.337-5.928a2.48,2.48,0,0,0,1.268-2.167h0V8.413a2.482,2.482,0,0,0-1.268-2.167h0L14.11.318A2.5,2.5,0,0,0,12.841,0h0a2.584,2.584,0,0,0-1.268.318" transform="translate(0.177 0.303)" fill="none"/>
+        <g id="Group_3-2" data-name="Group 3" clip-path="url(#clip-path)">
+          <path id="Fill_1" data-name="Fill 1" d="M11.573.318,1.269,6.246A2.547,2.547,0,0,0,0,8.413H0V20.268a2.48,2.48,0,0,0,1.269,2.167h0l10.3,5.928a2.477,2.477,0,0,0,1.234.334h.036a2.478,2.478,0,0,0,1.234-.334h0l10.337-5.928a2.48,2.48,0,0,0,1.268-2.167h0V8.413a2.482,2.482,0,0,0-1.268-2.167h0L14.11.318A2.5,2.5,0,0,0,12.841,0h0a2.584,2.584,0,0,0-1.268.318" transform="translate(0.177 0.303)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Fill_4" data-name="Fill 4" d="M.421,6.769,3.54,8.988A.985.985,0,0,1,3.91,10.1L2.718,13.692a1.012,1.012,0,0,0,1.565,1.113L7.4,12.586a1.033,1.033,0,0,1,1.195,0l3.119,2.22a1.012,1.012,0,0,0,1.565-1.113L12.09,10.1a.983.983,0,0,1,.37-1.113l3.119-2.219a.993.993,0,0,0-.6-1.8H11.126a1.015,1.015,0,0,1-.967-.688L8.967.689a1.024,1.024,0,0,0-1.935,0L5.841,4.279a1.013,1.013,0,0,1-.966.688H1.019a.993.993,0,0,0-.6,1.8" transform="translate(-2611 -1026)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <clipPath id="clip-canc...">
+      <rect width="45" height="45"/>
+    </clipPath>
+  </defs>
+  <g id="canc..." clip-path="url(#clip-canc...)">
+    <g id="Group_67" data-name="Group 67" transform="translate(6.311 6.811)">
+      <path id="Line_6" data-name="Line 6" d="M.189.189,30.811,30.811" transform="translate(0.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+      <path id="Line_7" data-name="Line 7" d="M30.811.189.189,30.811" transform="translate(0.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+    </g>
+  </g>
+</svg>

@@ -77,6 +77,28 @@
 	border-radius: 10px;
 	margin-top: 1.4rem;
 
+	.card-hole {
+		display: block;
+		margin: 0px auto;
+		height: 10px;
+		width: 60px;
+		background-color: #f2f5f9;
+		border-radius: 5px;
+		box-shadow: inset 0px 7px 10px rgba(0, 0, 0, 0.05);
+		margin-bottom: 20px;
+	}
+
+	&.hover{
+		transition: 0.4s;
+		border-width: 2px !important;
+
+		&:hover {
+			cursor: pointer;
+			border-color: #efacad;
+			transform: translateY(-2px);
+		}
+	}
+
 	&.empty {
 		border: 2px dashed rgba($accent-color, 0.75);
 		// background-color: rgba(#fff, 0.5);

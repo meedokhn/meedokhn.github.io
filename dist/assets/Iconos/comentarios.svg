@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <clipPath id="clip-comentarios">
+      <rect width="45" height="45"/>
+    </clipPath>
+  </defs>
+  <g id="comentarios" clip-path="url(#clip-comentarios)">
+    <g id="Group_7" data-name="Group 7" transform="translate(8.284 10)">
+      <path id="Fill_1" data-name="Fill 1" d="M.822,8.78.006,12.759a.345.345,0,0,0,.4.4l3.978-.816c.058-.034.116-.063.174-.092L13.109,3.7a.169.169,0,0,0,0-.241L9.71.051a.169.169,0,0,0-.241,0L.918,8.606c-.034.058-.063.116-.1.174" transform="translate(9.09 4.787)" fill="#ef00a5"/>
+      <path id="Fill_3" data-name="Fill 3" d="M22.223,12.633H20.707a.506.506,0,0,0-.507.507v7.073H2.526V2.527H8.332a.506.506,0,0,0,.507-.507V.507A.506.506,0,0,0,8.332,0H1.263A1.265,1.265,0,0,0,0,1.263V21.477A1.265,1.265,0,0,0,1.263,22.74h20.2a1.265,1.265,0,0,0,1.263-1.263V13.141a.506.506,0,0,0-.507-.507" transform="translate(0.716 2.394)" fill="#ef00a5"/>
+      <path id="Fill_5" data-name="Fill 5" d="M5.722,2.786,3.2.26a.893.893,0,0,0-1.26,0L.075,2.123a.255.255,0,0,0,0,.362L3.5,5.909a.254.254,0,0,0,.361,0L5.722,4.046a.894.894,0,0,0,0-1.26" transform="translate(21.054)" fill="#ef00a5"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="36" viewBox="0 0 32 36">
+  <defs>
+    <clipPath id="clip-descargar-pdf">
+      <rect width="32" height="36"/>
+    </clipPath>
+  </defs>
+  <g id="descargar-pdf" clip-path="url(#clip-descargar-pdf)">
+    <g id="noun_Document_2349167" transform="translate(6 4.722)">
+      <path id="Shape" d="M2.013,26A2.046,2.046,0,0,1,0,23.934V2.066A2.046,2.046,0,0,1,2.013,0H12.282a2.048,2.048,0,0,1,1.409.62l5.7,5.923c.067.069.1.138.168.207l.033.034a1.349,1.349,0,0,1,.268.482c.033.034.033.034.033.068a1.406,1.406,0,0,1,.1.517V23.934A2.046,2.046,0,0,1,17.986,26Z" transform="translate(0 0.278)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" d="M0,0H20.068V27.2H0Z" transform="translate(0 0.308)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-costo-consulta">
+      <rect width="45" height="45"/>
+    </clipPath>
+  </defs>
+  <g id="costo-consulta" clip-path="url(#clip-costo-consulta)">
+    <g id="Group_16" data-name="Group 16" transform="translate(807 650.579)">
+      <g id="Group_28" data-name="Group 28" transform="translate(-795 -641.887)">
+        <g id="Group_3" data-name="Group 3">
+          <path id="Clip_2-2" data-name="Clip 2" d="M0,0H20.068V27.2H0Z" transform="translate(0 0.308)" fill="none"/>
+          <g id="Group_3-2" data-name="Group 3" clip-path="url(#clip-path)">
+            <path id="Fill_1" data-name="Fill 1" d="M19.343,27.2H.725A.721.721,0,0,1,0,26.487V.717A.721.721,0,0,1,.725,0H12.818l.067,0,.067,0a.828.828,0,0,1,.178.064l.036.022A.73.73,0,0,1,13.322.2L19.854,6.63a.769.769,0,0,1,.116.154.042.042,0,0,1,.019.035.81.81,0,0,1,.065.175.769.769,0,0,1,.014.135V26.487A.721.721,0,0,1,19.343,27.2ZM1.452,1.407V25.772H18.613V7.837H12.807a.721.721,0,0,1-.726-.715V1.407Zm12.07,1.011.011,4H17.59Z" transform="translate(0 0.308)" fill="#ef00a5"/>
+          </g>
+        </g>
+        <path id="Fill_4" data-name="Fill 4" d="M.742,1.2H12.408A.682.682,0,0,0,13.15.6a.682.682,0,0,0-.742-.6H.742A.682.682,0,0,0,0,.6a.682.682,0,0,0,.742.6" transform="translate(3.586 13.157)" fill="#ef00a5"/>
+        <path id="Fill_6" data-name="Fill 6" d="M.71,1.2h9.339a.661.661,0,0,0,.71-.6.661.661,0,0,0-.71-.6H.71A.661.661,0,0,0,0,.6a.661.661,0,0,0,.71.6" transform="translate(3.586 15.549)" fill="#ef00a5"/>
+        <path id="Fill_8" data-name="Fill 8" d="M11.954.6a.66.66,0,0,0-.708-.6H.708A.66.66,0,0,0,0,.6a.66.66,0,0,0,.708.6H11.247a.66.66,0,0,0,.708-.6" transform="translate(3.586 17.941)" fill="#ef00a5"/>
+        <path id="Fill_10" data-name="Fill 10" d="M5.167,0H.81C.363,0,0,.268,0,.6s.363.6.81.6H5.167c.447,0,.81-.268.81-.6S5.614,0,5.167,0" transform="translate(10.759 23.922)" fill="#ef00a5"/>
+        <path id="Fill_12" data-name="Fill 12" d="M6.384,1.2A.713.713,0,0,0,7.173.6.713.713,0,0,0,6.384,0H.788A.713.713,0,0,0,0,.6a.713.713,0,0,0,.788.6Z" transform="translate(3.586 3.588)" fill="#ef00a5"/>
+        <path id="Fill_14" data-name="Fill 14" d="M6.384,1.2A.713.713,0,0,0,7.173.6.713.713,0,0,0,6.384,0H.788A.713.713,0,0,0,0,.6a.713.713,0,0,0,.788.6Z" transform="translate(3.586 7.176)" fill="#ef00a5"/>
+      </g>
+    </g>
+  </g>
+</svg>

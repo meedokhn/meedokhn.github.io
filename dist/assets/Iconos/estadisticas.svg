@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="74" height="58" viewBox="0 0 74 58">
+  <defs>
+    <clipPath id="clip-estadisticas">
+      <rect width="74" height="58"/>
+    </clipPath>
+  </defs>
+  <g id="estadisticas" clip-path="url(#clip-estadisticas)">
+    <g id="Grupo_6" data-name="Grupo 6" transform="translate(-8.564 10)">
+      <path id="Fill_1" data-name="Fill 1" d="M2.227,0A2.172,2.172,0,0,0,0,2.111V16.883a2.172,2.172,0,0,0,2.227,2.111H6.682a2.173,2.173,0,0,0,2.229-2.111V2.111A2.173,2.173,0,0,0,6.682,0Z" transform="translate(28.564 18.817)" fill="#fff"/>
+      <path id="Fill_4" data-name="Fill 4" d="M2.251,0A2.2,2.2,0,0,0,0,2.155v23.69A2.2,2.2,0,0,0,2.251,28h4.5A2.2,2.2,0,0,0,9,25.845V2.155A2.2,2.2,0,0,0,6.751,0Z" transform="translate(40.564 9.817)" fill="#fff"/>
+      <path id="Fill_6" data-name="Fill 6" d="M2.229,0A2.227,2.227,0,0,0,0,2.226V35.591a2.227,2.227,0,0,0,2.229,2.226H6.683a2.227,2.227,0,0,0,2.228-2.226V2.226A2.227,2.227,0,0,0,6.683,0Z" transform="translate(53.639 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

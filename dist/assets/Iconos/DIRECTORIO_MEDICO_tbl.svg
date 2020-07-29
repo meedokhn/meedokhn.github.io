@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="74" height="42" viewBox="0 0 74 42">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" d="M0,0H14.743V14.743H0Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Clip_5" data-name="Clip 5" d="M0,0H29.851V20.547H0Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-DIRECTORIO_MEDICO">
+      <rect width="74" height="42"/>
+    </clipPath>
+  </defs>
+  <g id="DIRECTORIO_MEDICO" clip-path="url(#clip-DIRECTORIO_MEDICO)">
+    <g id="Group_9" data-name="Group 9" transform="translate(22 1)">
+      <g id="Group_3" data-name="Group 3" transform="translate(8)">
+        <path id="Clip_2-2" data-name="Clip 2" d="M0,0H14.743V14.743H0Z" fill="none"/>
+        <g id="Group_3-2" data-name="Group 3" clip-path="url(#clip-path)">
+          <path id="Fill_1" data-name="Fill 1" d="M7.371,0A7.372,7.372,0,1,1,0,7.371,7.38,7.38,0,0,1,7.371,0" transform="translate(0 0)" fill="#C8C8C8"/>
+        </g>
+      </g>
+      <g id="Group_6" data-name="Group 6" transform="translate(0 18.995)">
+        <path id="Clip_5-2" data-name="Clip 5" d="M0,0H29.851V20.547H0Z" fill="none"/>
+        <g id="Group_6-2" data-name="Group 6" clip-path="url(#clip-path-2)">
+          <path id="Fill_4" data-name="Fill 4" d="M26.366,5.327A14.926,14.926,0,0,0,14.6,0,15.1,15.1,0,0,0,0,15.179v4.367a1,1,0,0,0,1.005,1h4.96a1,1,0,0,0,1.005-1V15.084a8.084,8.084,0,0,1,7.554-8.136,7.946,7.946,0,0,1,8.355,7.907v4.692a1,1,0,0,0,1.005,1h4.96a1,1,0,0,0,1.006-1V14.854a14.744,14.744,0,0,0-3.486-9.527" transform="translate(0)" fill="#C8C8C8"/>
+        </g>
+      </g>
+      <path id="Fill_7" data-name="Fill 7" d="M.706,5.287Q0,5.287,0,4.626V4.39q0-.661.706-.661H3.634V.661Q3.634,0,4.341,0h.336q.69,0,.69.661V3.729H8.31q.69,0,.69.661v.236q0,.661-.69.661H5.367V8.339q0,.661-.69.661H4.341q-.707,0-.707-.661V5.287Z" transform="translate(10 29.898)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

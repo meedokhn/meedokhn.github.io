@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Meedok</title>
+
+	<link rel="stylesheet" href="assets/css/museo-sans.css">
+	<link rel="stylesheet" href="assets/css/icons.css">
+	<link rel="stylesheet" href="assets/css/main.css">
+
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="styles.ece606dfcc590e983bfa.css"></head>
+
+<body>
+	<app-root></app-root>
+
+	<script>
+		window.onload = function () {
+			$('.dropdown').dropdown();
+
+			document.querySelector('.navbar .logo').onclick = function() {
+				document.querySelector('body').classList.add('sidebar-open');
+			}
+
+			document.querySelector('.sidebar-mask').onclick = function() {
+				document.querySelector('body').classList.remove('sidebar-open');
+			}
+		}
+	</script>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"
+		integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4"
+		crossorigin="anonymous"></script>
+	<script src='https://meet.jit.si/external_api.js'></script>
+<script src="runtime-es2015.c5fa8325f89fc516600b.js" type="module"></script><script src="runtime-es5.c5fa8325f89fc516600b.js" nomodule defer></script><script src="polyfills-es5.02f6d598580be024c9a1.js" nomodule defer></script><script src="polyfills-es2015.8152c9498af1a221f68d.js" type="module"></script><script src="scripts.020b4efc82c5300e98db.js" defer></script><script src="vendor-es2015.7a4c1781c264c329fd3a.js" type="module"></script><script src="vendor-es5.7a4c1781c264c329fd3a.js" nomodule defer></script><script src="main-es2015.04eddad427081a47a0f2.js" type="module"></script><script src="main-es5.04eddad427081a47a0f2.js" nomodule defer></script></body>
+
+</html>

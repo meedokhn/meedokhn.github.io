@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_5" data-name="Clip 5" d="M0,0H17.184V11.949H0Z" transform="translate(0.725)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-c-consulta">
+      <rect width="45" height="45"/>
+    </clipPath>
+  </defs>
+  <g id="c-consulta" clip-path="url(#clip-c-consulta)">
+    <g id="Group_22" data-name="Group 22" transform="translate(12.739 12)">
+      <g id="Group_6" data-name="Group 6" transform="translate(0.536 9.559)">
+        <path id="Clip_5-2" data-name="Clip 5" d="M0,0H17.184V11.949H0Z" transform="translate(0.725)" fill="none"/>
+        <g id="Group_6-2" data-name="Group 6" clip-path="url(#clip-path)">
+          <path id="Fill_4" data-name="Fill 4" d="M15.178,3.1A8.556,8.556,0,0,0,8.406,0,8.741,8.741,0,0,0,0,8.827v2.54a.58.58,0,0,0,.579.582H3.434a.58.58,0,0,0,.579-.582V8.772A4.682,4.682,0,0,1,8.362,4.04a4.6,4.6,0,0,1,4.81,4.6v2.729a.58.58,0,0,0,.579.582h2.855a.58.58,0,0,0,.579-.582V8.638A8.626,8.626,0,0,0,15.178,3.1" transform="translate(0.725)" fill="#ef00a5"/>
+        </g>
+      </g>
+      <path id="Fill_1" data-name="Fill 1" d="M4.184,0A4.182,4.182,0,1,1,0,4.182,4.188,4.188,0,0,1,4.184,0" transform="translate(6.513)" fill="#ef00a5"/>
+    </g>
+  </g>
+</svg>

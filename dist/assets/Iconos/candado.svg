@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="35" viewBox="0 0 30 35">
+  <defs>
+    <clipPath id="clip-candado">
+      <rect width="30" height="35"/>
+    </clipPath>
+  </defs>
+  <g id="candado" clip-path="url(#clip-candado)">
+    <g id="Group" transform="translate(3 2.938)">
+      <path id="Shape" d="M2.206,28.911A2.173,2.173,0,0,1,0,26.8V14.1a2.173,2.173,0,0,1,2.206-2.116H4.412V7.756A7.926,7.926,0,0,1,12.5,0a7.926,7.926,0,0,1,8.088,7.756v4.231h2.206A2.173,2.173,0,0,1,25,14.1V26.8a2.173,2.173,0,0,1-2.206,2.115Z" transform="translate(0 0.062)" fill="#ef00a5"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67" height="103" viewBox="0 0 67 103">
+  <defs>
+    <filter id="Fill_1" x="1" y="4" width="69" height="108" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.094"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-flecha">
+      <rect width="67" height="103"/>
+    </clipPath>
+  </defs>
+  <g id="flecha" clip-path="url(#clip-flecha)">
+    <g id="Group_3" data-name="Group 3" transform="translate(5 3.279)">
+      <g transform="matrix(1, 0, 0, 1, -5, -3.28)" filter="url(#Fill_1)">
+        <path id="Fill_1-2" data-name="Fill 1" d="M22.183,47.5l32.107-31.9A9.128,9.128,0,0,0,47.827,0h-.048a9.216,9.216,0,0,0-6.484,2.694L2.691,41.048a9.092,9.092,0,0,0-.03,12.883L41.295,92.314a9.259,9.259,0,0,0,13.018.022A9.114,9.114,0,0,0,54.291,79.4Z" transform="translate(5 4)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="40" viewBox="0 0 50 40">
+  <defs>
+    <clipPath id="clip-volver">
+      <rect width="50" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="volver" clip-path="url(#clip-volver)">
+    <g id="Group_67" data-name="Group 67" transform="translate(3.5 4.811)">
+      <g id="Group_11" data-name="Group 11" transform="translate(0.5)">
+        <path id="Line_6" data-name="Line 6" d="M0,.5,15.811,15.811" transform="translate(0 15)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+        <path id="Line_7" data-name="Line 7" d="M15.811.189,0,15.5" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+      </g>
+      <path id="Line_6_Copy" data-name="Line 6 Copy" d="M0,.677,39.5.823" transform="translate(3.75 14.677)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+    </g>
+  </g>
+</svg>

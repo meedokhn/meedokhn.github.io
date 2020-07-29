@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-ubicacion">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="ubicacion" clip-path="url(#clip-ubicacion)">
+    <path id="Fill_1" data-name="Fill 1" d="M9.5,25a.558.558,0,0,1-.425-.2C8.981,24.7,0,14.261,0,9.222A9.373,9.373,0,0,1,9.5,0,9.376,9.376,0,0,1,19,9.222C19,14.261,10.019,24.7,9.928,24.8A.565.565,0,0,1,9.5,25ZM10,4A4.773,4.773,0,0,0,5,8.5,4.774,4.774,0,0,0,10,13a4.778,4.778,0,0,0,5-4.5A4.776,4.776,0,0,0,10,4Z" transform="translate(7 3)" fill="#ef00a5"/>
+  </g>
+</svg>

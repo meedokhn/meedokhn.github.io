@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <clipPath id="clip-select_button_inactive">
+      <rect width="26" height="26"/>
+    </clipPath>
+  </defs>
+  <g id="select_button_inactive" clip-path="url(#clip-select_button_inactive)">
+    <g id="Rectangle" transform="translate(1 1)" fill="none">
+      <path d="M8,0h8a8,8,0,0,1,8,8v8a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8V8A8,8,0,0,1,8,0Z" stroke="none"/>
+      <path d="M 8 3 C 5.242990493774414 3 3 5.242990493774414 3 8 L 3 16 C 3 18.75700950622559 5.242990493774414 21 8 21 L 16 21 C 18.75700950622559 21 21 18.75700950622559 21 16 L 21 8 C 21 5.242990493774414 18.75700950622559 3 16 3 L 8 3 M 8 0 L 16 0 C 20.41827964782715 0 24 3.581720352172852 24 8 L 24 16 C 24 20.41827964782715 20.41827964782715 24 16 24 L 8 24 C 3.581720352172852 24 0 20.41827964782715 0 16 L 0 8 C 0 3.581720352172852 3.581720352172852 0 8 0 Z" stroke="none" fill="#4d00ef"/>
+    </g>
+  </g>
+</svg>

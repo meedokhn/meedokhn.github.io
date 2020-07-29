@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="35" viewBox="0 0 30 35">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" d="M0,0H24V30H0Z" transform="translate(0 0.5)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-archivoSubir">
+      <rect width="30" height="35"/>
+    </clipPath>
+  </defs>
+  <g id="archivoSubir" clip-path="url(#clip-archivoSubir)">
+    <g id="Group_3" data-name="Group 3" transform="translate(3 3.5)">
+      <path id="Clip_2-2" data-name="Clip 2" d="M0,0H24V30H0Z" transform="translate(0 0.5)" fill="none"/>
+      <g id="Group_3-2" data-name="Group 3" transform="translate(0 -3)" clip-path="url(#clip-path)">
+        <path id="Fill_1" data-name="Fill 1" d="M19.715,30H15.427a1.7,1.7,0,0,1-1.215-.5,1.607,1.607,0,0,1-.474-1.149V28.3a1.67,1.67,0,0,1,1.69-1.634h4.286a.846.846,0,0,0,.857-.833V10H15.429a1.693,1.693,0,0,1-1.715-1.667v-5H4.286a.847.847,0,0,0-.858.833v7.5a1.693,1.693,0,0,1-1.714,1.667A1.693,1.693,0,0,1,0,11.667v-7.5A4.232,4.232,0,0,1,4.286,0H15.723a3.5,3.5,0,0,1,2.425.976L23,5.69A3.266,3.266,0,0,1,24,8.047V25.834A4.232,4.232,0,0,1,19.715,30ZM5.143,30a1.693,1.693,0,0,1-1.714-1.666V25H1.255A1.231,1.231,0,0,1,.16,24.244a1.4,1.4,0,0,1,.1-1.472L4.149,17.1a1.149,1.149,0,0,1,.921-.433,1.374,1.374,0,0,1,1.067.517l3.89,5.548a1.435,1.435,0,0,1,.093,1.507A1.23,1.23,0,0,1,9.032,25H6.857v3.334A1.693,1.693,0,0,1,5.143,30Z" transform="translate(0 0.5)" fill="#ef00a5"/>
+      </g>
+    </g>
+  </g>
+</svg>
