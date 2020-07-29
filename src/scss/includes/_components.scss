@@ -77,6 +77,37 @@
 	border-radius: 10px;
 	margin-top: 1.4rem;
 
+	&.empty {
+		border: 2px dashed rgba($accent-color, 0.75);
+		// background-color: rgba(#fff, 0.5);
+		cursor: pointer;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: 80px 80px;
+
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		transition: 0.3s;
+
+		&:hover{
+			transform: translateY(-3px);
+		}
+
+		i {
+			font-size: 3rem;
+			display: block;
+			margin-bottom: 0.75rem;
+			opacity: 0.75;
+		}
+
+		span {
+			font-weight: 700;
+			font-size: 1.3rem;
+			opacity: 0.75;
+		}
+	}
+
 	&.card-primary{
 		background-color: $primary-color;
 		color: #FFF;
@@ -289,5 +320,50 @@ h3 + .separator, h4 + .separator {
 
 	&.square {
 		border-radius: 0.4rem;
+	}
+}
+
+.search-component {
+	background-color: #FFF;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 6px 15px;
+	border-radius: 40px;
+	border: 1px solid rgba($border-color, 0.6);
+	box-shadow: 0px 1rem 1.4rem rgba(0,0,0, 0.1);
+
+	.form-group{
+		flex: 1;
+		border-right: 1px dashed rgba($border-color, 0.6);
+		margin-bottom: 0px;
+		padding-left: 1.2rem;
+		padding-right: 1.2rem;
+
+		&:nth-child(3) {
+			border-right: 1px solid transparent !important;
+		}
+	}
+
+	label{
+		display: block;
+		font-weight: 700;
+		margin-bottom: 2px;
+		text-transform: uppercase;
+		font-size: 0.8rem;
+	}
+
+	input {
+		border: none;
+		border-bottom: 2px solid transparent;
+		margin: 0px;
+		width: 100%;
+		opacity: 1;
+		transition: 0.4s;
+		outline: none;
+		
+		&:focus{
+			border-bottom: 2px solid $link-color;
+		}
 	}
 }

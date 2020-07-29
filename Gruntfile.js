@@ -54,6 +54,7 @@ module.exports = function (grunt) {
 				files: {
 					"public/index.html": "src/pages/index.html",
 					"public/dash.html": "src/pages/dash.html",
+					"public/404.html": "src/pages/404.html",
 				}
 			},
 		},
